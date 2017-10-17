@@ -1,0 +1,40 @@
+4-5 Star ratings:
+	Asymptotic - Not found
+		Successor - at2020
+	Binary - Not found
+		Successor - binaturae
+	Complexity - 
+		Frequency - 196
+		Successor - complexityand
+	Depth
+		Frequency - 492
+		Successor - deptbr
+	Mergesort - Not found
+		Successor - merging
+	Quicksort - Not found
+		Successor - quickstop
+	Structure -
+		Frequency - 74
+		Successor - structurebr
+	Theta - Not found
+		Successor - thethougt
+1-3 Star ratings
+	Asymptotic - Not found
+		Successor - asyouneed
+	Binary - Not found
+		Successor - binbr
+	Complexity - 
+		Frequency - 83
+		Successor - complexitybr
+	Depth
+		Frequency - 183
+		Successor - depthbr
+	Mergesort - Not found
+		Successor - merging
+	Quicksort - Not found
+		Successor - quickstop
+	Structure -
+		Frequency - 27
+		Successor - structured
+	Theta - Not found
+		Successor - thevey

@@ -1,0 +1,45 @@
+Size 3918
+High tree          Low tree
+64 amazon          21 smell
+65 buy          23 eat
+64 organic          21 supply
+69 little          23 food
+65 dogs          23 tried
+70 coffee          25 time
+64 treats          23 buy
+74 baby          25 amazon
+70 flavor          26 little
+104 supply          29 taste
+126 day          33 day
+92 taste          33 baby
+147 milk          26 try
+72 price          58 milk
+66 3          25 increase
+85 food          57 product
+117 love          39 taking
+117 dog          34 coffee
+115 fenugreek          36 3
+106 product          32 2
+
+There are now 194 distinct words left in high ratings
+New High tree
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
